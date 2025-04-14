@@ -55,9 +55,3 @@
         };
 };
 
-&underglow {
-    color = <255 109 0>;
-    brightness = <128>; // optional: scale 0-255
-    speed = <0>;         // optional: for animations, set to 0 for static
-    mode = "solid";      // optional: solid color
-};
